@@ -1,3 +1,17 @@
 body {font-family: "Open Sans", sans-serif}
 h1,h2,h3 {font-family: 'Lalezar', cursive}
 nav a {font-family: 'Lalezar', cursive; color: white; font-size: 130%}
+img {
+    height: 400px;
+}
+
+.room {
+    font-size: 14px;
+    padding: 3px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+
+.name {
+    color: #255625;
+}
